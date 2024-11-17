@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/paolo/lab_3_paolo/lab_3_paolo.srcs/sim_1/new/dessign.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adder'
+INFO: [VRFC 10-3107] analyzing entity 'mult'
+INFO: [VRFC 10-3107] analyzing entity 'logic_unit'
+INFO: [VRFC 10-3107] analyzing entity 'shifter'
+INFO: [VRFC 10-3107] analyzing entity 'alu'
